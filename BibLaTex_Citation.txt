@@ -1,0 +1,12 @@
+@misc{BEGreen2021,
+  author = {B.E.Green},
+  title = {Twitter Scraping Demo},
+  year = {2021},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/bregreen/twitterscrapingdemo}},
+  commit = {# (e.g. 4f57d6a0e4c030202a07a60bc1bb1ed1544bf679)}
+}
+
+
+https://github.blog/2014-05-14-improving-github-for-science/
