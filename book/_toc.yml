@@ -7,8 +7,8 @@
   
   - file: start/abc
     sections:
-      - file: abc/123
-      - file: abc/456
+      - file: start/123
+      - file: start/456
 
 - part: Twitter API
   chapters:
@@ -19,8 +19,8 @@
   - file: other/aaa
   - file: other/bbb
     sections:
-    - file: bbb/ccc/ddd
-    - file: bbb/ccc/ttt
+    - file: other/ccc/ddd
+    - file: other/ccc/ttt
 
 
 - part: Demos

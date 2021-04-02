@@ -1,0 +1,20 @@
+https://mdl.library.utoronto.ca/technology/tutorials/scraping-tweets-using-python
+
+The steps below will help you set up your twitter account to be able to access live stream tweets.
+
+Create a Twitter account if you do not have one.
+Go to https://dev.twitter.com/apps and log in with your Twitter credentials.
+Click "Create New App"
+Fill out the form and agree to the terms. Put in a dummy website if you don't have one you want to use.
+On the next page, click the "Keys and Access Tokens" tab along the top, then scroll all the way down until you see the section "Your Access Token"
+Click the button "Create My Access Token". You can Read more about Oauth authorization.
+You will now copy your unique four values into twitterstream.py (download this file on your computer). These values are your "API Key", your "API secret", your "Access token", and your "Access token secret". Open twitterstream.py and set the variables corresponding to the api key, api secret, access token, and access secret. You will see code like the below in line 6-9 of the file:
+api_key = "<Enter api key>"
+api_secret = "<Enter api secret>"
+access_token_key = "<Enter your access token key here>"
+access_token_secret = "<Enter your access token secret here>"
+After pasting the four credentials into the twitterstream.py, save the file and go to command line and type: python twitterstream.py > tweets.txt. Make sure you are in the directory where the file twittersteam.py is saved.
+
+You will see that a tweets.txt file has been created by the system (smilar to one below). This is the file where raw tweet data will be stored.
+
+Wait 3-5 minutes before you stop the program using Crtl-C in command line. Open the tweets file and you'll see some raw tweets similar to this:
