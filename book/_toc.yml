@@ -4,8 +4,6 @@
   chapters:
   - file: start/overview
   - file: start/Python_info
-  
-  - file: start/aaa
     sections:
       - file: start/123
       - file: start/456
@@ -13,23 +11,22 @@
 - part: Twitter API
   chapters:
   - file: api/dev_acct
+    sections:
+      - file: api/tweepy
+      - file: api/twarc
+  
 
 - part: Other Scraping Options
   chapters:
   - file: other/aaa
-  - file: other/bbb
-    sections:
-    - file: other/ccc/ddd
-    - file: other/ccc/ttt
-
 
 - part: Demos
   chapters:
-  - file: demos/pdf
+  - file: demos/demo_1
   
 - part: Datasets
   chapters:
-  - file: data/pdf
+  - file: data/data_1
 
 
 - part: Reference
