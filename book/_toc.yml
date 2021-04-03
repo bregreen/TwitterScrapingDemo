@@ -3,16 +3,16 @@
 - part: Get started
   chapters:
   - file: start/overview
-  - file: start/xyz
+  - file: start/Python_info
   
-  - file: start/abc
+  - file: start/aaa
     sections:
       - file: start/123
       - file: start/456
 
 - part: Twitter API
   chapters:
-  - file: api/aaa
+  - file: api/dev_acct
 
 - part: Other Scraping Options
   chapters:
