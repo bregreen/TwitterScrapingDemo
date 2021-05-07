@@ -5,8 +5,8 @@
 
 #######################################################################################
 # Book settings
-title                       : My Jupyter Book  # The title of the book. Will be placed in the left navbar.
-author                      : The Jupyter Book community  # The author of the book
+title                       : Mini Demo of Twitter (& Web) Scraping  # The title of the book. Will be placed in the left navbar.
+author                      : <a href="https://bregreen.github.io/">Breanna E. Green</a>  # The author of the book
 copyright                   : "2021"  # Copyright year to be placed in the footer
 logo                        : "logo.png"  # A path to the book logo
 # Patterns to skip when building the book. Can be glob-style (e.g. "*skip.ipynb")
@@ -88,5 +88,5 @@ sphinx:
   local_extensions          :   # A list of local extensions to load by sphinx specified by "name: path" items
   config                    :   
       notfound_context:
-         body: "<h1>Page not found.</h1>\n\nSorry, this page cannot be found. Try the <a href='index.html'> home page </a> or <a href='search.html'> search page </a> to find what you're looking for.</p>."
+         body: "<h1>Page not found.</h1>\n\nSorry, this page cannot be found. Try the <a href='index.html'> home page </a> to find what you're looking for.</p>."
       notfound_no_urls_prefix: True# key-value pairs to directly over-ride the Sphinx configuration
