@@ -3,26 +3,22 @@
 - part: Get started
   chapters:
   - file: start/overview
-  - file: start/Python_info
-    sections:
-      - file: start/123
-      - file: start/456
+  
+- part: Other Scraping Options
+  chapters:
+  - file: other/BS_Requests
 
 - part: Twitter API
   chapters:
-  - file: api/dev_acct
+  - file: api/What_API
+  - file: api/Python_info
     sections:
-      - file: api/tweepy
-      - file: api/twarc
+      - file: api/twitter_api_steps
   
-
-- part: Other Scraping Options
-  chapters:
-  - file: other/aaa
-
 - part: Demos
   chapters:
-  - file: demos/demo_1
+  - file: demos/beautifulsoup_demo
+  - file: demos/twitterapi_demo
   
 - part: Datasets
   chapters:
