@@ -4,8 +4,6 @@
 
    This webpage contains materials for a simple introduction to scraping content from Twitter. I created it present to colleagues and friends at Cornell in 2021 Spring (so if you are seeing this many moons in the future... brace yourself for this relic). A quick snippet about me -- I am a PhD Student in the [Information Science](https://infosci.cornell.edu/research) Department who's main research interest is how activist and extremist ideologies are developed and manifested online, particularly using social media.
 
- <img src="~/book/images/logo.PNG" alt="Cartoon version of B. E. Green" width="200"/>
-
 
 # Learn More About Jupyter Book
 
