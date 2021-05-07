@@ -3,14 +3,18 @@
 - part: Get started
   chapters:
   - file: start/overview
+    title: Overview
+	
   
 - part: Other Scraping Options
   chapters:
   - file: other/BS_Requests
+    title: Requests & BeautifulSoup
 
 - part: Twitter API
   chapters:
   - file: api/What_API
+    title: What's an API?
   - file: api/Python_info
     sections:
       - file: api/twitter_api_steps
@@ -18,7 +22,9 @@
 - part: Demos
   chapters:
   - file: demos/beautifulsoup_demo
+    title: Request/BeautifulSoup Demo
   - file: demos/twitterapi_demo
+    title: Twitter API Demo
   
 - part: Datasets
   chapters:
