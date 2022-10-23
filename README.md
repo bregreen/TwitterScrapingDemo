@@ -10,12 +10,17 @@
   This webpage contains materials for a simple introduction to scraping content from Twitter. I created it present to colleagues and friends at Cornell in 2021 Spring (so if you are seeing this many moons in the future... brace yourself for this relic). A quick snippet about me -- I am a PhD Student in the [Information Science](https://infosci.cornell.edu/research) Department who's main research interest is how activist and extremist ideologies are developed and manifested online, particularly using social media. Moreover, I've been particularly interested in how folks moralize acts of harm.
 
 **How are we going to do this?** 
- 
+
+
 ## Table of Contents:
 
 ### [Set Up Twitter API](https://bregreen.github.io/projects/Twitter_Scraping_Demo/set_up_twitter_api_steps.html#)
 
 ### [Twitter API Demo](https://bregreen.github.io/projects/Twitter_Scraping_Demo/twitter_api_demo.html#)
+
+### [Requests and BeautifulSoup](https://bregreen.github.io/projects/Twitter_Scraping_Demo/requests_and_beautifulsoup.html#)
+
+### [BeautifulSoup Demo](https://bregreen.github.io/projects/Twitter_Scraping_Demo/beautifulsoup_demo.html#)
 
 
 #### **Acknowledgments**:
